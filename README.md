@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Siddhant Jadhav!
 
-🎓 💻 Aspiring Developer** | 🚀 **Lifelong Learner**
+🎓 💻 **Aspiring Developer** | 🚀 **Lifelong Learner**
 
 Welcome to my GitHub profile! I’m on a journey to explore the vast world of tech, enhance my coding skills, and build projects that make an impact. 
 As I dive deeper into Computer Science and Engineering, I’m excited to learn and grow with every line of code.
