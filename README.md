@@ -12,7 +12,7 @@ As I dive deeper into Computer Science and Engineering, I’m excited to learn a
 - **C++** 📚
 - **Java**
 - **Javascript**
-- Basics of **Web Development** 🌐
+- **MERN** 🌐
 
 ### 👨‍💻 What I’m Working On:
 - Building my coding fundamentals through projects.
