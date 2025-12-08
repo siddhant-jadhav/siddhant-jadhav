@@ -29,7 +29,7 @@ As I dive deeper into Computer Science and Engineering, I’m excited to learn a
 ---
 
 ### 🤝 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/jadhavsiddhant0106)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/siddhantjadhav01)
 
 
 Let’s connect, collaborate, and create! Thanks for visiting my profile—excited to share my journey with you. 😊
