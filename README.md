@@ -16,7 +16,7 @@ As I dive deeper into Computer Science and Engineering, I’m excited to learn a
 
 ### 👨‍💻 What I’m Working On:
 - Building my coding fundamentals through projects.
-- Exploring interesting fields like **AI/ML**, **Cybersecurity**, and **Blockchain**.
+- Exploring interesting fields like **AI/ML**, **Cybersecurity**, and **Cloud**.
 
 ---
 
